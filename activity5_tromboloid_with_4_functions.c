@@ -30,6 +30,6 @@ int main()
      printf("Enter the breadth : \n");
      z=input();
      vol=find_vol(x,y,z);
-     output (vol);
+     output(vol);
      return 0;
 }
