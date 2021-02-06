@@ -12,7 +12,7 @@ int input ()
 int find_sum(int a,int b)
 {
      a+b;
-     return sum;
+     return a+b;
 }
 
 int output (int a,int b,int c)
