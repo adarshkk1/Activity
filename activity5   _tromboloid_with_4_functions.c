@@ -18,7 +18,7 @@ float find_vol(float a,float b,float c)
 
 void output(float a)
 {
-    printf("The result is %f",a);
+    printf("The Volume of the tromboloid is %f",a);
 }
 
 int main()
