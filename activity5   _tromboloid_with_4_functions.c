@@ -4,7 +4,7 @@
 float input()
 {
     float a; 
-    printf("Enter a number\n");
+    printf("Enter the value \n");
     scanf("%f",&a);
     return a;
 }
