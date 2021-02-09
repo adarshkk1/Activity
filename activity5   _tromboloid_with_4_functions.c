@@ -9,10 +9,10 @@ float input()
     return a;
 }
 
-float find_vol(float a,float b,float c)
+float find_vol(float h,float d,float b)
 {
     float vol;
-    vol = 1/3*((a*b*c)+(b/c));
+    vol=((h*d*b)+(d/b))/3.0
     return vol;
 }
 
