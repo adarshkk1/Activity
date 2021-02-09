@@ -19,7 +19,7 @@ float find_distance(float x1, float x2 ,float y1,float y2)
 
 void output(float a)
 {
-    printf("The distance between two points is %f”,a);
+    printf("The distance between two points is %f \n",a);
 }
 int main()
 {
